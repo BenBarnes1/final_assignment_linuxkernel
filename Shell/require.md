@@ -1,0 +1,1 @@
+bro viết prompt làm bài lab của tôi đi yêu cầu thực hiện chính xác đầy đủ các chức năng về đề bài , code dễ đọc dễ hiểu cho người lập trình tiếp theo, sử dụng cú phát tường minh đơn giản nhưng vẫn đầy đủ các chức năng . hạn chế viết nhwuxng lệnh hay log ra màn hình nhưng thông tin rối mắt như =====.,,,,,,,,

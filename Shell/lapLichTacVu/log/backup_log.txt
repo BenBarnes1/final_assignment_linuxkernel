@@ -1,0 +1,5 @@
+2026-06-17 17:59:55 - [SUCCESS] Hoàn thành sao lưu từ /home/nenhoang/CuoiKy/Shell/lapLichTacVu/source sang /home/nenhoang/CuoiKy/Shell/lapLichTacVu/backup/2026-06-17
+2026-06-17 18:00:01 - [SUCCESS] Hoàn thành sao lưu từ /home/nenhoang/CuoiKy/Shell/lapLichTacVu/source sang /home/nenhoang/CuoiKy/Shell/lapLichTacVu/backup/2026-06-17
+2026-06-17 18:00:26 - [SUCCESS] Hoàn thành sao lưu từ /home/nenhoang/CuoiKy/Shell/lapLichTacVu/source sang /home/nenhoang/CuoiKy/Shell/lapLichTacVu/backup/2026-06-17
+2026-06-17 18:01:01 - [SUCCESS] Hoàn thành sao lưu từ /home/nenhoang/CuoiKy/Shell/lapLichTacVu/source sang /home/nenhoang/CuoiKy/Shell/lapLichTacVu/backup/2026-06-17
+2026-06-17 18:02:01 - [SUCCESS] Hoàn thành sao lưu từ /home/nenhoang/CuoiKy/Shell/lapLichTacVu/source sang /home/nenhoang/CuoiKy/Shell/lapLichTacVu/backup/2026-06-17

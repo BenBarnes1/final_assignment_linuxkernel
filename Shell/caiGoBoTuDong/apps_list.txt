@@ -1,0 +1,9 @@
+# Danh sách các ứng dụng cần cài đặt tự động
+# Bỏ qua các dòng trống và các dòng comment có dấu thăng này
+
+curl
+git
+htop
+
+# Thử nghiệm một package cố tình viết sai để test bộ lọc bắt lỗi phân tích và gợi ý
+invalid-package-name-test

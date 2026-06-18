@@ -1,0 +1,11 @@
+[2026-06-17 23:13:30] [WARN] [invalid-package-name-test] - Lần thử thứ 1 thất bại. Kích hoạt cơ chế tự vá lỗi phụ thuộc...
+[2026-06-17 23:13:37] [WARN] [invalid-package-name-test] - Lần thử thứ 2 thất bại. Kích hoạt cơ chế tự vá lỗi phụ thuộc...
+[2026-06-17 23:13:44] [WARN] [invalid-package-name-test] - Lần thử thứ 3 thất bại. Kích hoạt cơ chế tự vá lỗi phụ thuộc...
+[2026-06-17 23:13:45] [ERROR] [invalid-package-name-test] - Cài đặt thất bại sau 3 lần thử. Đã phân tích nguyên nhân lỗi vào file log.
+--------------------------------------------------
+Thời gian: 2026-06-17 23:13:45
+Ứng dụng: invalid-package-name-test
+Trạng thái: Thất bại
+Nguyên nhân: Không tìm thấy package 'invalid-package-name-test' trong kho lưu trữ hiện tại (Sai chính tả tên gói).
+Khắc phục sự cố (Hướng dẫn hành động): Vui lòng kiểm tra lại chính tả tên package hoặc cần cấu hình thêm repository PPA phù hợp cho gói phần mềm này.
+--------------------------------------------------
