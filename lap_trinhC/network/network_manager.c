@@ -75,7 +75,7 @@ void list_network_interfaces() {
             if (s != 0) {
                 LOG_ERR("getnameinfo() that bai: %s", gai_strerror(s));
             } else {
-                printf("           Dia chi IP: <%s>\n", host);
+                printf(" Dia chi IP: <%s>\n", host);
             }
         } else if (family == AF_PACKET && ifa->ifa_data != NULL) {
             struct ifreq ifr;
@@ -85,7 +85,7 @@ void list_network_interfaces() {
             int sockfd = socket(AF_INET, SOCK_DGRAM, 0);
             if (sockfd >= 0) {
                 if (ioctl(sockfd, SIOCGIFFLAGS, &ifr) == 0) {
-                    printf("           Trang thai: %s\n", (ifr.ifr_flags & IFF_UP) ? "UP" : "DOWN");
+                    printf("Trang thai: %s\n", (ifr.ifr_flags & IFF_UP) ? "UP" : "DOWN");
                 }
                 close(sockfd);
             }

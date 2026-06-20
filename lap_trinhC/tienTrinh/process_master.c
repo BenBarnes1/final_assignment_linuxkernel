@@ -147,9 +147,7 @@ int main() {
     if (signal(SIGINT, handle_signal) == SIG_ERR) exit(1); // Đăng ký Ctrl+C
 
     do {
-        printf("\n=========================================\n");
-        printf("   HỆ THỐNG QUẢN LÝ TIẾN TRÌNH NÂNG CAO   \n");
-        printf("=========================================\n");
+        printf("   HỆ THỐNG QUẢN LÝ TIẾN TRÌNH  \n");
         printf("1. Giám sát hệ thống tiến trình (/proc)\n");
         printf("2. Gửi tín hiệu điều khiển (Kill/Stop/Cont)\n");
         printf("3. Khởi tạo tiến trình con chạy lệnh (Execvp)\n");
